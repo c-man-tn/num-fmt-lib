@@ -1,0 +1,20 @@
+{
+  "name": "num-fmt-lib",
+  "version": "1.0.0",
+  "description": "library for number-formatter",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "numeric",
+    "digit",
+    "format"
+  ],
+  "author": "C. H. Stanton",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
